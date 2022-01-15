@@ -1,0 +1,20 @@
+{
+  "name": "tweets-api",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poojamansukhani/tweets-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poojamansukhani/tweets-api/issues"
+  },
+  "homepage": "https://github.com/poojamansukhani/tweets-api#readme",
+  "devDependencies": {
+    "@vercel/node": "^1.12.1",
+    "vercel": "^23.1.2"
+  }
+}
